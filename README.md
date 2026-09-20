@@ -1,0 +1,2 @@
+# oracle_pdb_ass_II_20252SEN351_ineza
+ORACLE PDB
